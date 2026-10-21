@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adventures in Fire Island</title>
+</head>
+<body>
+
+    <!-- Hero Section -->
+    <header>
+        <h1>Adventures in Fire Island</h1>
+        <img src="https://unsplash.com" alt="Scenic beach and sunset at Fire Island National Seashore" width="100%" height="auto">
+    </header>
+
+    <!-- Blog Post Summary -->
+    <main>
+        <section>
+            <h2>My Trip Highlights</h2>
+            <p>Visiting Fire Island National Seashore was an unforgettable escape from the city. From exploring the historic Fire Island Lighthouse to wandering through the rare Sunken Forest, the island offers a perfect blend of untouched nature and coastal charm. Walking along the boardwalks and watching the sunset over the Atlantic Ocean were absolute highlights of the trip.</p>
+        </section>
+
+        <!-- Image Gallery -->
+        <section>
+            <h2>Trip Gallery</h2>
+            <ul>
+                <li>
+                    <img src="https://unsplash.com" alt="Beautiful ocean waves rolling onto the sand" width="300">
+                </li>
+                <li>
+                    <img src="https://unsplash.com" alt="Sun loungers on a quiet beach during midday" width="300">
+                </li>
+                <li>
+                    <img src="https://unsplash.com" alt="A wooden walkway leading through coastal dunes" width="300">
+                </li>
+            </ul>
+        </section>
+
+        <!-- Call to Action -->
+        <section>
+            <h2>Ready to Visit?</h2>
+            <p>
+                <a href="https://nps.gov" target="_blank" rel="noopener noreferrer">Plan your National Park adventure today!</a>
+            </p>
+        </section>
+    </main>
+
+</body>
+</html>
